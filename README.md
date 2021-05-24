@@ -1,2 +1,2 @@
-# memory
+# Memory Game
 Memory Game
